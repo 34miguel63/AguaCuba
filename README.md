@@ -82,7 +82,7 @@ Comprueban que las aplicaciones están registradas, que las carpetas de plantill
 
 ### 👥 Equipo de Desarrollo
 - **Addel Vidal García**
-- **Miguel Ángel Banteurt Blanco**
+- **Miguel Angel Banteurt Blanco**
 - **Alejandro Colón Álvarez**
 
 **Universidad de Oriente**  
